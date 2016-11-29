@@ -117,13 +117,13 @@ Now if I console.log lipsticksNameDiv by running 'node index.js' in the terminal
 
 That great!!
 
-I can do want ever I want with that data , I can regex it to get the actual names or just use te html as it is.
+I can do want ever I want with thhis data , I can regex it to get the actual names or just use te html as it is.
 
 
 
 #### The end
 
-Yeah you now build your first web scraper. <br>
+Yeah you have now build your first web scraper. <br>
 Have fun scraping !!!!
 
 
