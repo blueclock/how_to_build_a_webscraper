@@ -1,12 +1,9 @@
 ## How to build a web scraper.
 
-
 Building a web scraper is a easy way to feel like Elliot from MrRobots without the illegality. Follow the steps below and have fun.
 
-###Ready, set , go.
 
-
-#### Step 1  
+## Step 1  
 First of all, you will need NodeJS. You can install NodeJS with one command.
 
 ```
@@ -25,7 +22,7 @@ $ npm init
 ```
 
 
-#### Step 2
+## Step 2
 
 You will need to be able to send and receive HTTP requests. Request-promise is my favourite HTTP request client, because of it's in build support of promises. It makes your code so much more simpler. 
 
@@ -41,7 +38,7 @@ Cheerio is the server side version of jQuery, which will enable you to be able m
 $ npm install cheerio  --save
 ```
 
-#### Step 3
+## Step 3
 
 So now open up your index.js files and require the packages that you have installed. when you require packages you are making the code that does all the cool stuff available to you in the file that you are currently in.
 
@@ -80,7 +77,7 @@ The response you will receive will be all the webpage without the fancy css that
 
 
   
-#### Step 4
+## Step 4
 
 Now that you are getting back all the HTMl from the webpage, we can manipulate the DOM we have received. 
 
@@ -117,14 +114,11 @@ Now if I console.log lipsticksNameDiv by running 'node index.js' in the terminal
 
 That great!!
 
-I can do want ever I want with thhis data , I can regex it to get the actual names or just use te html as it is.
+I can do want ever I want with thhis data , I can regex it to get the actual names or just use the html as it is.
 
 
 
 #### The end
 
-Yeah you have now build your first web scraper. <br>
+Yay!! you have now build your first web scraper. <br>
 Have fun scraping !!!!
-
-
-
