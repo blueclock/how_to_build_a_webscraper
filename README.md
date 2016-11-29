@@ -113,7 +113,7 @@ I’ve stored Cheerio in a $ variable which at the moment  loading the body of t
 ``` 
 Now if I console.log that result buy running 'node index.js' in the terminal, I should have a list of all the divs that have class '.shade-picker-float__colors'. 
 
-![](/images/lipsticksDivs.png)
+![](/images/lipstickDivs.png)
 
 That great!!
 
