@@ -108,14 +108,13 @@ I’ve stored Cheerio in a $ variable which at the moment  loading the body of t
     });
 
 ``` 
-Now if I console.log lipsticksNameDiv by running 'node index.js' in the terminal, I should have a list of all the divs that have class '.shade-picker-float__colors'. 
+Now if I console.log lipsticksNameDiv and run 'node index.js' in the terminal, I should have a list of all the divs that have class '.shade-picker-float__colors'. 
 
 ![](/images/lipstickDivs.png)
 
-That great!!
+Thats great!!
 
 I can do want ever I want with thhis data , I can regex it to get the actual names or just use the html as it is.
-
 
 
 ## The end
